@@ -56,7 +56,13 @@ python manage.py createsuperuser
 ```
 Follow the prompts to create an admin user.
 
-#### Step 6: Run the development server
+#### Step 6: Run test case
+
+``` bash
+python manage.py test
+````
+
+#### Step 7: Run the development server
 
 ``` bash
 python manage.py runserver
