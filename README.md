@@ -20,8 +20,8 @@ This is a simple Todo application built with Django, allowing users to add, edit
 #### Step 1: Clone the repository
 
 ``` bash
-git clone https://github.com/your-username/django-todo.git
-cd django-todo
+git clone https://github.com/Athul-Rajagopal/todo-application-django.git
+cd ToDo
 ```
 #### Step 2: Create and activate a virtual environment
 
